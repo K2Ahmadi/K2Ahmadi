@@ -13,7 +13,7 @@ Take a look at my GitHub repositories to see how I approach data science project
 
 <br />
 
-### Languages and Tools 💻:
+### 💻 Languages and Tools:
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
 
