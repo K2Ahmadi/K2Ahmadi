@@ -9,6 +9,7 @@ Take a look at my GitHub repositories to see how I approach data science project
 ### Connect with me: 
 [<img align="left" alt="Keyan | LinkedIn" width="29px" src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png" />][linkedin]
 
+<br />
 ### Languages and Tools:
 
 
