@@ -14,9 +14,7 @@ Take a look at my GitHub repositories to see how I approach data science project
 <br />
 
 ### Languages and Tools:
-<img align="left"  alt="Python" width="26px" src="https://user-images.githubusercontent.com/102554466/225439015-fb6e5afb-6776-4c19-ad54-8237f4e28307.png" >
-<img align="left"  alt="Python" width="26px" src="https://cms.databricks.com/sites/default/files/inline-images/pyspark-image.png" >
-
+![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
 
 
