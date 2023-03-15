@@ -9,15 +9,14 @@ Take a look at my GitHub repositories to see how I approach data science project
 ### Connect with me: 
 [<img align="left" alt="Keyan | LinkedIn" width="29px" src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png" />][linkedin]
 
-<br />
-### Languages and Tools:
-
-
-
-
-
-
 [linkedin]: https://www.linkedin.com/in/keyan-ahmadi-98823b1a7
+
+<br />
+
+### Languages and Tools:
+[<img align="left" width="26px" src="https://user-images.githubusercontent.com/102554466/225439015-fb6e5afb-6776-4c19-ad54-8237f4e28307.png" />]
+
+
 
 
 
