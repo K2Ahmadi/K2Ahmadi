@@ -3,7 +3,11 @@ Hello 👋, and welcome to my to my GitHub profile! My name is Keyan Ahmadi, and
 Take a look at my GitHub repositories to see how I approach data science projects with a creative and innovative mindset. Don't hesitate to reach out if you have any questions or collaboration ideas - I'm always eager to connect with like-minded individuals!
 
 - 📫 Reach me at: a2keyan@gmail.com or shoot me a message on LinkedIn.
-- Let's connect: 
+
+
+#### Let's connect: 
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 
 
 <!--
