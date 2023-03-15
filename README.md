@@ -6,11 +6,14 @@ Take a look at my GitHub repositories to see how I approach data science project
 
 
 #### Let's connect: 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/keyan-ahmadi-98823b1a7
+
+
+
+
 
 <!--
 **K2Ahmadi/K2Ahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
