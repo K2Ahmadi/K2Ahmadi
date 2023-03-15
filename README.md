@@ -1,5 +1,5 @@
 ### Hello 👋, and welcome to my to my GitHub profile! 
-My name is Keyan Ahmadi, and I am passionate about the field of data science and artificial intelligence. I  I have recently completed a Masters in engineering program at the University of Toronto, with a focus on data science. My GitHub projects showcase my expertise in machine learning, deep learning, data analysis, and data visualization.
+My name is Keyan Ahmadi, and I am passionate about the field of Data Science and Artificial Intelligence. I have recently completed my Masters of Engineering at the University of Toronto, majoring in Data Science. My GitHub projects showcase my expertise in Machine Learning, Deep Learning, Data Analysis, and Data Visualization.
 
 Take a look at my GitHub repositories to see how I approach data science projects with a creative and innovative mindset. Don't hesitate to reach out if you have any questions or collaboration ideas - I'm always eager to connect with like-minded individuals!
 
