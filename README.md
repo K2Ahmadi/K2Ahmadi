@@ -12,9 +12,21 @@ Take a look at my GitHub repositories to see how I approach data science project
 [linkedin]: https://www.linkedin.com/in/keyan-ahmadi-98823b1a7
 
 <br />
+<br />
 
 ### 💻 Languages and Tools:
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flate&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+
+
+
+
+
 
 
 
