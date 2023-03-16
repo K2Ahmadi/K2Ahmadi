@@ -6,7 +6,7 @@ Take a look at my GitHub repositories to see how I approach data science project
 - 📫 Reach me at: a2keyan@gmail.com or shoot me a message on LinkedIn.
 
 
-### Connect with me: 
+### 🤝 Connect with me: 
 [<img align="left" alt="Keyan | LinkedIn" width="29px" src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/keyan-ahmadi-98823b1a7
